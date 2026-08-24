@@ -166,7 +166,7 @@ export const resume: ResumeData = {
       ],
       tags: ["微信小程序", "CloudBase", "AI 评分引擎", "跨设备同步"],
       category: "小程序",
-      qrCode: "/kangyan-qrcode.png",
+      qrCode: "kangyan-qrcode.png",
       sourceLink: "https://github.com/wen/kangyan-life",
       stars: 0,
       role: "独立全栈开发",
