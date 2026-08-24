@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-new/
+
+# Logs
+*.log
+build_log.txt
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+.codebuddy/
+.playwright-cli/
+
+# Temp / docs
+*.tmp
+pdf_content.txt
+pdf_info.txt
+extract_pdf.py
+
+# TypeScript build info
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
